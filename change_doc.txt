@@ -5,3 +5,4 @@ Version control doesn't have to just be about software, it can be about any thin
 When we make changes to this document just put your initials after your line(s) like this. - ME.
 
 Have fun and don't hesitate to reach out if you're confused or want to just see what happens when you do something!
+This is definitely a text doc....
